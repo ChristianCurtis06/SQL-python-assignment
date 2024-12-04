@@ -1,0 +1,1 @@
+This repository includes the assignment: Applying SQL in Python in Module 5: Lesson 3 of the Software Engineering Core.
